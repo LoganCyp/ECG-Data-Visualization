@@ -1,6 +1,6 @@
 # ECG Data Visualization
 
-A Visualization Software for Electro Cardiograph Scans
+A Visualization Software for Electro Cardiograph Scans. A feed forward neural network classification software is in the working right now.
 
 ## 
 
