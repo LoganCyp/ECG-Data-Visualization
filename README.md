@@ -4,11 +4,11 @@ A Visualization Software for Electro Cardiograph Scans
 
 ## 
 
-Inline `code`
 
-Indented code
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+Loading in The Dataset and plotting using a random plot function.
+
+    load('ECGData/ECGData.mat');
+
+    PlotRandomScan(ECGData,14); 
+    
