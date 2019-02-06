@@ -4,7 +4,7 @@ A Visualization Software for Electro Cardiograph Scans. A feed forward neural ne
 
 ## 
 
-
+### Feed Forward Neural Network Model
 
 Loading in The Dataset and plotting using a random plot function.
 
